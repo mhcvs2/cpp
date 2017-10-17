@@ -1,0 +1,3 @@
+/Users/yons/github/cpp/string/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yons/github/cpp/string/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yons/github/cpp/string/cmake-build-debug/CMakeFiles/string.dir

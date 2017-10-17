@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yons/github/cpp/set/main.cpp
+iostream
+-
+set
+-
+set.h
+/Users/yons/github/cpp/set/set.h
+
+/Users/yons/github/cpp/set/set.cpp
+set.h
+/Users/yons/github/cpp/set/set.h
+
+/Users/yons/github/cpp/set/set.h
+
